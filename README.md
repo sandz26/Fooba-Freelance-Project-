@@ -8,7 +8,7 @@ NOTE: Due to the nature of this project, code cannot be shared publicly.
 This project was undertaken as part of a hackathon challenge to address the low customer retention of a movie-streaming service lacking a recommender system. The goal was to identify trends in movie watching, create an effective movie recommender system, and integrate it into an application to enhance user engagement and revenue for the platform.
 
 
-https://github.com/sandz26/Movie-Reccommender-Model/assets/71333214/fd37d5ea-6aa5-47fe-ab20-d9ad2626ae37
+https://github.com/user-attachments/assets/5feeb476-1faf-4af4-bfcd-f7ec9fd8c124
 
 
 # Problem Statement
