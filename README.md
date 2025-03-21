@@ -26,7 +26,8 @@ The order tracking feature allows users to monitor the status of their requests 
 
 # Live Chat 
 
-https://github.com/sandz26/fuba-checkout/issues/5#issue-2937863459
+![Image](https://github.com/sandz26/fuba-checkout/issues/5#issue-2937863459)
+
 
 
 
