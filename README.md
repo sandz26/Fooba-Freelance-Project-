@@ -3,9 +3,6 @@ Fooba is a mobile application designed to improve food security by streamlining 
 
 https://github.com/user-attachments/assets/5feeb476-1faf-4af4-bfcd-f7ec9fd8c124
 
-
-# Approach
-
 ## Tools Used
 Flutter
 Django/Python
@@ -26,24 +23,17 @@ The order tracking feature allows users to monitor the status of their requests 
 
 # Live Chat 
 
-![Image](https://github.com/sandz26/fuba-checkout/issues/5#issue-2937863459)
+![Image](https://github.com/user-attachments/assets/3c8bbef1-a22a-4939-8742-048251ec0470)
+
+The live chat functionality enables direct communication between users and food bank staff. This feature is essential for answering user questions, providing assistance with orders, and ensuring a smooth experience. Messages are updated in real time to keep conversations active and efficient.
 
 
+# User Profile
+The user profile section allows users to manage their personal details, view order history, and update their preferences. This ensures that returning users have a personalized and seamless experience when interacting with the app.
 
-
-
-
-# Recommendations
-Encourage users to rate movies, particularly those with few ratings and infrequent raters.
-Consider users' watch time; movies with low watch times might indicate dissatisfaction.
+![Image](https://github.com/user-attachments/assets/86d7d6fc-637d-41c4-b342-0dd25f73ea7c)
 
 # Acknowledgments
-
-![Screenshot (348)](https://github.com/sandz26/Movie-Reccommender-Model/assets/71333214/437cbfe8-d657-4260-8a2d-0d23f96fc2f0)
-
-Festus Godwin (Team Lead)
-Sandile Mdluli -(Technical lead)
-Rofhiwa Ntshagovhe (Administrative Lead)
-Virtue-ann Michael 
+Navario Enteprises
 
 We express our gratitude to all team members for their valuable contributions to this project.
