@@ -4,9 +4,9 @@ Fooba is a mobile application designed to improve food security by streamlining 
 https://github.com/user-attachments/assets/5feeb476-1faf-4af4-bfcd-f7ec9fd8c124
 
 ## Tools Used
-Flutter
-Django/Python
-Firebase
+- Flutter
+- Django/Python
+- Firebase
 
 # Checkout
 
@@ -18,6 +18,7 @@ The checkout screen provides users with a smooth and intuitive ordering experien
 # Order Tracking
 
 The order tracking feature allows users to monitor the status of their requests in real time. Orders move through different statuses such as "Pending," "Processing," "Ready for Pickup," and "Completed." This ensures users stay informed and reduces uncertainty about food availability.
+
 ![Image](https://github.com/user-attachments/assets/afc9fc5b-d0a8-40fd-bf92-9fe839e4d540)
 
 
