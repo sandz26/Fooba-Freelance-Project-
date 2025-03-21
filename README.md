@@ -17,29 +17,14 @@ Firebase
 
 The checkout screen provides users with a smooth and intuitive ordering experience. Users can review their selected food items, confirm their details, and submit their requests for pickup or delivery. The interface ensures a hassle-free process with clear order summaries and confirmation prompts.
 
-![6](https://github.com/sandz26/Movie-Reccommender-Model/assets/71333214/1f3595f7-06fa-439f-afbb-0a02bfd9f731)
-
-
-
-# Project Outcomes
-
-# Findings
-
-Identified trends in movie-watching behavior.
-Discovered that top users' ratings heavily influenced the system, potentially skewing recommendations.
-Observed a disparity between high and low ratings, indicating a lack of diverse user preferences data.
-Challenges Faced
-Limited data on user dislikes due to infrequent low ratings.
-Need for encouraging users to rate movies, especially lesser-known ones, for more accurate recommendations.
-
-
-![8]()
-
 
 ![7](https://github.com/sandz26/Movie-Reccommender-Model/assets/71333214/06b91b87-917f-40d4-ba54-daaef1c4f92b)
 
-# Conclusion
-The project's outcome highlighted the importance of diverse user ratings and the challenge of handling skewed data from top users. The conclusions drawn emphasized the need for encouraging users to rate movies more frequently to balance the system.
+# Order Tracking
+
+![Image](https://github.com/user-attachments/assets/afc9fc5b-d0a8-40fd-bf92-9fe839e4d540)
+
+The order tracking feature allows users to monitor the status of their requests in real time. Orders move through different statuses such as "Pending," "Processing," "Ready for Pickup," and "Completed." This ensures users stay informed and reduces uncertainty about food availability.
 
 # Rankings
 Out of 257 participating teams, our team secured the 146th position in the hackathon challenge.
